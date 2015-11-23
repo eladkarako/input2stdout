@@ -1,0 +1,2 @@
+# input2stdout
+input2stdout takes the content entered by the user in a nice inputbox and put it into standard-output, so you can use it in scripts, it stops (naturally) the execution of the script until the user has entered the value and pressed "OK", you can customise the content of the inputbox by passing it to the input2stdout.exe as argument. [Built With Some Nostalgic-Feeling in Visual Basic 6 :) ]
