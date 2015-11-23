@@ -1,0 +1,29 @@
+
+1 VERSIONINFO
+FILEVERSION 5,3,1,0
+PRODUCTVERSION 5,3,1,0
+FILEOS 0x4
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904B0"
+	{
+		VALUE "Comments", "input2stdout"
+		VALUE "CompanyName", "Elad Karako"
+		VALUE "FileDescription", "writes the content of inputbox to standard-output (STDOUT), change inputbox description by passing an argument to the exe."
+		VALUE "FileVersion", "5.3.1"
+		VALUE "InternalName", "input2stdout"
+		VALUE "LegalCopyright", "© Elad Karako Freeware "
+		VALUE "LegalTrademarks", "Elad Karako® input2stdout"
+		VALUE "OriginalFilename", "input2stdout.exe"
+		VALUE "ProductName", "Elad Karako® input2stdout"
+		VALUE "ProductVersion", "5.3.1"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0
+}
+}
